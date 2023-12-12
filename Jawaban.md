@@ -43,7 +43,27 @@ Penggunaan email, social media, instant messaging, google docs, merupakan contoh
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
+Referensi [1](https://learn.microsoft.com/id-id/windows-server/administration/windows-commands/cmd)
+
+Referensi [2](https://www.dewaweb.com/blog/perintah-cmd/)
+
+Referensi [3] (https://jalantikus.com/tips/perintah-cmd-command-prompt/)
+
+Referensi [4] ( https://store.sirclo.com/blog/cmd-command-prompt/)
+
+Referensi [5] (https://www.niagahoster.co.id/blog/perintah-cmd/)
+
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+Referensi [1] (https://www.hostinger.co.id/tutorial/perintah-dasar-linux)
+
+Referensi [2] (https://www.jagoanhosting.com/blog/perintah-dasar-linux/)
+
+Referensi [3] ( https://www.exabytes.co.id/blog/command-perintah-linux-yang-berguna/)
+
+Referensi [4] (https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+
+Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
+
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
