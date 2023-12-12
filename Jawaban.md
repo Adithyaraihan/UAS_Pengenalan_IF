@@ -3,6 +3,37 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mobile Computing
+
+Mobile computing adalah teknologi komputasi modern yang memungkinkan pengguna untuk dapat bergerak tanpa harus duduk di depan layar komputer. Mobile computing didesain untuk dapat melakukan transmisi dan komunikasi data, suara, gambar maupun video dengan menggunakan jaringan nirkabel. Seperti gelombang radio, sinyal Wifi, RFID, bluetooth, dan lain sebagainya.
+
+Perangkat mobile computing tidak terbatas pada laptop, tablet maupun smartphone saja. Tetapi juga berbagai perangkat lain yang dapat terhubung secara realtime dan mendukung mobilitas.
+
+Grid Computing
+
+Grid computing adalah teknologi komputasi yang terdistribusi/terpisah namun melakukan koordinasi pada sebuah mekanisme guna mendukung sebuah tugas. Unsur utama dalam grid computing adalah bagaimana setiap komputer dapat berbagi sumberdaya untuk meningkatkan quality of service.
+
+Sistem grid computing merupakan sistem terdistribusi, yang tidak menggunakan pengendali pusat untuk mengatur alokasi resource, konsep ini merupakan konsep peer to peer dalam dunia jaringan komputer. Protocol yang digunakan harus bersifat terbuka agar dapat dimengerti oleh seluruh perangkat komputasi yang terhubung.
+
+Jaringan komputer grid membentuk super computer virtual berkat adanya kerjasama antar setiap perangkat yang menyusunnya.
+Contoh proyek yang menerapkan Grid Computing
+  1.	Medical image – eDiamond projects
+  2.	Penemuan obat – Computer Aided Drug Discovery
+  3.	Big Science – Deisa
+  4.	Desain Mikrprocessor – IBM Austin
+  5.	Ilmu Pengetahuan – Advanced Industrial Science and Technology
+
+Cloud Computing
+Cloud computing merupakan komputasi modern yang memungkinkan akses sebuah software/aplikasi melalui internet, cloud computing dikembangkan untuk mendukung reliabilitas sebuah layanan.
+
+Cloud computing sendiri terdiri dari beberapa layanan
+  1.	Software as services; Gmail, Google Docs, Google Forms, Telegram, Office 365
+  2.	Platform as services; AWS, Microsoft Azure
+  3.	Infrastructure as services; Digital Ocean, Rackspace, AWS, Microsoft Azure
+   
+Penggunaan email, social media, instant messaging, google docs, merupakan contoh penerapan cloud computing. Dimana data disimpan dalam server cloud dan pengguna dapat terhubung ke layanan tersebut.
+
+
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
