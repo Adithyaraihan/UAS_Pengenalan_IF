@@ -70,6 +70,7 @@ Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+![alt text](https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png)
 
 Referensi [1](https://scratch.mit.edu/)
 
