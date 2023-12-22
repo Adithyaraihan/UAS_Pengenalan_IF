@@ -67,6 +67,7 @@ Penggunaan email, social media, instant messaging, google docs, merupakan contoh
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![Alt Text](https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(33).png)
 
 ## Mencoba Console Sistem Operasi
 
