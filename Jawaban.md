@@ -1,6 +1,37 @@
 # Hello Informatics !
-
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
+
+Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antara lain:
+- **Decomposition (Dekomposisi):** Tahap pertama, dekomposisi, yaitu memecah masalah kompleks menjadi beberapa bagian kecil dan sederhana. Sehingga, kita bisa menemukan masalah yang terjadi dengan menyelesaikannya satu persatu.
+
+- **Pattern Recognition (Pengenalan Pola):** • Pengenalan pola akan membantu kamu dalam memecahkan masalah. Nah, pada tahap ini, kita mencari pola atau persamaan tertentu dalam sebuah masalah.
+
+- **Abstraction (Abstraksi):** Beberapa hal yang dilakukan pada tahap abstraksi antara lain, melihat permasalahan, melakukan generalisasi, dan melakukan identifikasi informasi. Dengan cara ini, kita dapat melihat informasi penting dan mengabaikan informasi yang kurang relevan.
+
+- **Algorithm (Algoritma):** Tahap pengembangan sistem.
+
+### Kelebihan Computational Thinking
+
+- Dapat memecahkan masalah rumit atau kompleks secara sederhana dan efektif.
+- Melatih mindset berpikir logis, kreatif, dan terstruktur.
+- Mampu merumuskan masalah dengan menguraikannya menjadi bagian-bagian kecil yang lebih mudah.
+
+### Penerapan Computational Thinking
+
+#### 1. Perincian Masalah
+- Analisis dan penjabaran masalah.
+- Pembagian masalah kompleks menjadi masalah-masalah kecil.
+
+#### 2. Memikirkan Algoritma yang Sistematis
+- Pencarian algoritma yang tepat untuk memecahkan masalah.
+
+#### 3. Implementasi, Solusi, dan Evaluasi
+- Pembuatan solusi aktual.
+- Evaluasi sistematis dan pengujian kebenaran hipotesis.
+- Modifikasi hipotesis hingga tidak memerlukan perubahan.
+- Melihat apakah solusi dapat digeneralisasikan dengan proses otomatisasi.
+
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 Mobile Computing
