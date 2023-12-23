@@ -68,6 +68,8 @@ Penggunaan email, social media, instant messaging, google docs, merupakan contoh
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+Colab merupakan layanan notebook Jupyter yang dihosting dan dapat digunakan tanpa penyiapan, serta menyediakan akses tanpa biaya ke resource komputasi termasuk GPU
+
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(33).png" alt="Windows CMD" width="640" height="360">
 
 ## Mencoba Console Sistem Operasi
