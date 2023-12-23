@@ -241,6 +241,33 @@ Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan da
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+Back-End Developer adalah seorang profesional yang fokus pada pengembangan sisi "back end" sebuah aplikasi atau situs web. Mereka bertanggung jawab untuk mengembangkan dan memelihara server, database, dan aplikasi logika yang mengatur interaksi antara server dan klien.
+
+### Tugas dan Tanggung Jawab:
+
+### A. Merancang Database
+- Merancang, mengelola, dan memelihara database aplikasi.
+- Menjamin keamanan data, akses cepat, dan memenuhi persyaratan aplikasi.
+
+### B. Pengelolaan Server
+- Memastikan server aplikasi berjalan dengan baik.
+- Mengatur konfigurasi server, mengoptimalkan kinerja, dan mengelola masalah keamanan.
+
+### C. Merancang Alur Kerja Aplikasi/Website
+- Membuat dan mengimplementasikan logika aplikasi.
+- Mengelola permintaan dari klien, melakukan validasi data, mengolah informasi, dan memberikan respons yang sesuai.
+
+### D. Mengatur Keamanan Sistem
+- Melindungi aplikasi dari serangan dan ancaman keamanan.
+- Menerapkan tindakan keamanan seperti enkripsi data, otentikasi pengguna yang kuat, dan perlindungan terhadap serangan umum.
+
+### E. Pengujian dan Debugging
+- Melakukan pengujian untuk memastikan aplikasi berjalan dengan benar.
+- Mengidentifikasi dan memperbaiki bug atau masalah lain yang mungkin muncul dalam kode atau konfigurasi aplikasi.
+
+<img src=" https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/backend_page-0001.jpg" width="360" height="640">
+
+
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
