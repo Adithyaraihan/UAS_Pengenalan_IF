@@ -115,6 +115,9 @@ Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran d
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/HackerRank.png" width="640" height="360">
+
+Hackerrank merupakan suatu platform yang dapat digunakan untuk mengasah maupun mengetahui kemampuan dalam bidang programming melaui test dengan berbagai tingkat kesulitan
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
