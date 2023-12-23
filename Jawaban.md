@@ -201,7 +201,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+Hugging Face, Inc. adalah sebuah perusahaan Amerika Serikat yang mengembangkan perkakas untuk mengembangkan aplikasi menggunakan pembelajaran mesin. Perusahaan ini membangun sebuah perpustakaan transformer untuk aplikasi pengolahan bahasa alami dan sebuah platform yang digunakan oleh pengguna untuk berbagi model pembelajaran mesin dan kumpulan data. 
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/HuggungFace.png" width="640" height="360">
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan data scientist lain, mempelajari informasi baru dan trik coding, serta melihat berbagai contoh aplikasi data science di dunia nyata. Ada banyak kumpulan data yang dapat digunakan untuk apa saja yang sederhana seperti penjualan video game, hingga sesuatu yang lebih kompleks dan penting seperti data polusi udara. Data ini nyata dan direferensikan, sehingga Anda dapat melatih dan menguji model Anda pada proyek yang pada akhirnya dapat membantu orang-orang lain
+
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Kaggle.png" width="640" height="360">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
