@@ -265,8 +265,9 @@ Back-End Developer adalah seorang profesional yang fokus pada pengembangan sisi 
 - Melakukan pengujian untuk memastikan aplikasi berjalan dengan benar.
 - Mengidentifikasi dan memperbaiki bug atau masalah lain yang mungkin muncul dalam kode atau konfigurasi aplikasi.
 
+<div align="center">
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/backend_page-0001.jpg" width="360" height="640">
-
+</div>
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
