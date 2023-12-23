@@ -1,4 +1,4 @@
-# Hello Informatics !
+f# Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
 
@@ -95,11 +95,13 @@ Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/musik%20Flowchart.drawio.png" alt="Flowchart" width="360" height="360">
 
-Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
+Flowchart atau bagan alur adalah diagram yang menampilkan langkah-langkah dan keputusan untuk melakukan sebuah proses dari suatu program. Setiap langkah digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau arah panah.
+
+Flowchart berperan penting dalam memutuskan sebuah langkah atau fungsionalitas dari sebuah proyek pembuatan program yang melibatkan banyak orang sekaligus. Selain itu dengan menggunakan bagan alur proses dari sebuah program akan lebih jelas, ringkas, dan mengurangi kemungkinan untuk salah penafsiran. Penggunaan flowchart dalam dunia pemrograman juga merupakan cara yang bagus untuk menghubungkan antara kebutuhan teknis dan non-teknis. 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="360" height="360">
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="640" height="360">
 
 Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
 
