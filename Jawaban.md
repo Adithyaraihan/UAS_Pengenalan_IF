@@ -1,4 +1,4 @@
-f# Hello Informatics !
+# Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational thinking atau pemikiran komputasional adalah cara berpikir untuk menyelesaikan suatu masalah. Caranya adalah dengan menguraikan setiap masalah menjadi beberapa bagian atau tahapan yang efektif dan efisien. Ia juga dapat diartikan menjadi sebuah metode untuk menyelesaikan suatu masalah yang dirancang untuk bisa diselesaikan oleh manusia atau sistem atau keduanya.
 
@@ -184,6 +184,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
+### Text to Image
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Ai%20generate%20image.png" width="640" height="360">
+
+### Text to Text
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Ai%20text%20to%20text.png" height="360">
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
