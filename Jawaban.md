@@ -34,13 +34,13 @@ Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antar
 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Mobile Computing
+### 1. Mobile Computing
 
 Mobile computing adalah teknologi komputasi modern yang memungkinkan pengguna untuk dapat bergerak tanpa harus duduk di depan layar komputer. Mobile computing didesain untuk dapat melakukan transmisi dan komunikasi data, suara, gambar maupun video dengan menggunakan jaringan nirkabel. Seperti gelombang radio, sinyal Wifi, RFID, bluetooth, dan lain sebagainya.
 
 Perangkat mobile computing tidak terbatas pada laptop, tablet maupun smartphone saja. Tetapi juga berbagai perangkat lain yang dapat terhubung secara realtime dan mendukung mobilitas.
 
-Grid Computing
+### 2. Grid Computing
 
 Grid computing adalah teknologi komputasi yang terdistribusi/terpisah namun melakukan koordinasi pada sebuah mekanisme guna mendukung sebuah tugas. Unsur utama dalam grid computing adalah bagaimana setiap komputer dapat berbagi sumberdaya untuk meningkatkan quality of service.
 
@@ -54,7 +54,7 @@ Contoh proyek yang menerapkan Grid Computing
   4.	Desain Mikrprocessor – IBM Austin
   5.	Ilmu Pengetahuan – Advanced Industrial Science and Technology
 
-Cloud Computing
+### 3. Cloud Computing
 Cloud computing merupakan komputasi modern yang memungkinkan akses sebuah software/aplikasi melalui internet, cloud computing dikembangkan untuk mendukung reliabilitas sebuah layanan.
 
 Cloud computing sendiri terdiri dari beberapa layanan
