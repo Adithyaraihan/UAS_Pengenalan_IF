@@ -95,31 +95,34 @@ Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/musik%20Flowchart.drawio.png" alt="Flowchart" width="360" height="360">
-
 Flowchart atau bagan alur adalah diagram yang menampilkan langkah-langkah dan keputusan untuk melakukan sebuah proses dari suatu program. Setiap langkah digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau arah panah.
 
 Flowchart berperan penting dalam memutuskan sebuah langkah atau fungsionalitas dari sebuah proyek pembuatan program yang melibatkan banyak orang sekaligus. Selain itu dengan menggunakan bagan alur proses dari sebuah program akan lebih jelas, ringkas, dan mengurangi kemungkinan untuk salah penafsiran. Penggunaan flowchart dalam dunia pemrograman juga merupakan cara yang bagus untuk menghubungkan antara kebutuhan teknis dan non-teknis. 
 
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/musik%20Flowchart.drawio.png" alt="Flowchart" width="360" height="360">
 
-<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="640" height="360">
+
+## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
 
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="640" height="360">
+
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi perubahan/penukaran.
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Bubblesort.png" alt="Scratch" width="500" height="360">
-
-Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi perubahan/penukaran.
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/HackerRank.png" width="640" height="360">
 
 Hackerrank merupakan suatu platform yang dapat digunakan untuk mengasah maupun mengetahui kemampuan dalam bidang programming melaui test dengan berbagai tingkat kesulitan
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/HackerRank.png" width="640" height="360">
+
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
