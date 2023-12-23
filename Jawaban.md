@@ -67,23 +67,17 @@ Penggunaan email, social media, instant messaging, google docs, merupakan contoh
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-![Alt Text](https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(33).png)
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(33).png" alt="Windows CMD" width="640" height="360">
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(35).png" alt="Windows CMD" width="640" height="360">
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+- **perintah shutdown -s -t 3600** akan memulai proses shutdown pada sistem operasi Windows dan akan memberikan waktu 3600 detik (satu jam) sebelum sistem benar-benar dimatikan. Kamu dapat mengganti nilai 3600 dengan jumlah detik sesuai keinginanmu.
 
-Referensi [1](https://learn.microsoft.com/id-id/windows-server/administration/windows-commands/cmd)
-
-Referensi [2](https://www.dewaweb.com/blog/perintah-cmd/)
-
-Referensi [3] (https://jalantikus.com/tips/perintah-cmd-command-prompt/)
-
-Referensi [4] ( https://store.sirclo.com/blog/cmd-command-prompt/)
-
-Referensi [5] (https://www.niagahoster.co.id/blog/perintah-cmd/)
+- **perintah ping 8.8.8.8 -t**. Perintah ini berguna untuk memonitor ketersediaan jaringan ke tujuan tertentu dan melihat responsnya dalam setiap detik . penggunaan opsi -t menyebabkan perintah ping berjalan terus menerus.
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 Referensi [1] (https://www.hostinger.co.id/tutorial/perintah-dasar-linux)
@@ -102,7 +96,10 @@ Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-![alt text](https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png)
+
+Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="640" height="360">
 
 Referensi [1](https://scratch.mit.edu/)
 
