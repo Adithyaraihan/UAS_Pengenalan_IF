@@ -185,6 +185,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+### - Image menggunakan Google Colab
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/GOCAB%20IMAGE.png" width="640" height="360">
+
+### - Audio menggunakan Google Colab
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/GOCAB%20AUDIO.png" width="640" height="360">
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -214,12 +219,12 @@ Hugging Face, Inc. adalah sebuah perusahaan Amerika Serikat yang mengembangkan p
 
 Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan data scientist lain, mempelajari informasi baru dan trik coding, serta melihat berbagai contoh aplikasi data science di dunia nyata. Ada banyak kumpulan data yang dapat digunakan untuk apa saja yang sederhana seperti penjualan video game, hingga sesuatu yang lebih kompleks dan penting seperti data polusi udara. Data ini nyata dan direferensikan, sehingga Anda dapat melatih dan menguji model Anda pada proyek yang pada akhirnya dapat membantu orang-orang lain
 
-
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Kaggle.png" width="640" height="360">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(42).png" width="640" height="360">
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
@@ -231,17 +236,7 @@ Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan da
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
-Back-End Developer adalah seorang profesional yang fokus pada pengembangan sisi "back end" sebuah aplikasi atau situs web. Mereka bertanggung jawab untuk mengembangkan dan memelihara server, database, dan aplikasi logika yang mengatur interaksi antara server dan klien.
+Saya tertarik pada profesi Back-End Developer, Back-End Developer adalah seorang profesional yang fokus pada pengembangan sisi "back end" sebuah aplikasi atau situs web. Mereka bertanggung jawab untuk mengembangkan dan memelihara server, database, dan aplikasi logika yang mengatur interaksi antara server dan klien.
 
 ### Tugas dan Tanggung Jawab:
 
@@ -264,6 +259,18 @@ Back-End Developer adalah seorang profesional yang fokus pada pengembangan sisi 
 ### E. Pengujian dan Debugging
 - Melakukan pengujian untuk memastikan aplikasi berjalan dengan benar.
 - Mengidentifikasi dan memperbaiki bug atau masalah lain yang mungkin muncul dalam kode atau konfigurasi aplikasi.
+
+## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+
+## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
+## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
+## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+**Backend development (pengembangan backend)** adalah bagian dari pengembangan perangkat lunak yang fokus pada pembuatan dan pemeliharaan komponen "backend" suatu aplikasi atau situs web. Backend merujuk pada bagian sistem yang bekerja di balik layar, seperti server, database, dan logika aplikasi, yang bertanggung jawab untuk memproses dan menyimpan data, serta menyediakan layanan yang dibutuhkan oleh frontend
 
 <div align="center">
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/backend_page-0001.jpg" width="360" height="640">
