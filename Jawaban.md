@@ -93,7 +93,9 @@ Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/musik%20Flowchart.drawio.png" alt="Flowchart" width="640" height="360">
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/musik%20Flowchart.drawio.png" alt="Flowchart" width="360" height="360">
+
+Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
