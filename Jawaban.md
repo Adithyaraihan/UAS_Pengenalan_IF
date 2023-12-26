@@ -281,8 +281,17 @@ Saya tertarik pada profesi Back-End Developer, Back-End Developer adalah seorang
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+LinkedIn adalah platform media sosial profesional yang dirancang untuk membantu orang-orang dalam membangun dan menjalin hubungan bisnis.  
+
+fungsi LinkedIn yaitu melibatkan pembuatan profil profesional, terhubung dengan rekan kerja dan mitra bisnis, berbagi konten terkait industri atau pekerjaan, dan mencari pekerjaan atau peluang bisnis. Pengguna dapat memposting riwayat pekerjaan, keterampilan, pendidikan, dan pencapaian lainnya pada profil mereka untuk membangun identitas profesional online.
+
+Profil linkedin saya bisa dilihat di [Adithya Raihan Pratama](https://www.linkedin.com/in/adithya-raihan-pratama-778175207/)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+GitHub adalah platform pengembangan perangkat lunak yang menggunakan sistem kontrol versi Git. Didirikan pada tahun 2008, GitHub menyediakan layanan berbasis web yang memungkinkan pengembang perangkat lunak untuk bekerja sama dalam proyek-proyek perangkat lunak secara terdistribusi.
+GitHub juga memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat yang berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
+
+Profil Github saya bisa dilihat di [Adithya Raihan Pratama]([https://www.linkedin.com/in/adithya-raihan-pratama-778175207/](https://github.com/Adithyaraihan))
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
