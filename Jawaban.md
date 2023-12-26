@@ -105,6 +105,7 @@ Flowchart berperan penting dalam memutuskan sebuah langkah atau fungsionalitas d
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab
+Untuk mengakses Scratch saya  bisa menggunakan mengklik [Scratch]( https://scratch.mit.edu/projects/939567264/)
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(32).png" alt="Scratch" width="640" height="360">
 
