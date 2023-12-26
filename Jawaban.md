@@ -82,16 +82,9 @@ Colab merupakan layanan notebook Jupyter yang dihosting dan dapat digunakan tanp
 - **perintah ping 8.8.8.8 -t**. Perintah ini berguna untuk memonitor ketersediaan jaringan ke tujuan tertentu dan melihat responsnya dalam setiap detik . penggunaan opsi -t menyebabkan perintah ping berjalan terus menerus.
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-Referensi [1] (https://www.hostinger.co.id/tutorial/perintah-dasar-linux)
+Google Colab menyediakan kemampuan untuk menjalankan perintah Linux di dalam notebook Jupyter dengan menggunakan tanda seru (!) sebelum perintah. Colab menyediakan akses ke shell atau command-line interface (CLI) di lingkungan notebook untuk memberikan fleksibilitas yang lebih besar kepada penggunanya.
 
-Referensi [2] (https://www.jagoanhosting.com/blog/perintah-dasar-linux/)
-
-Referensi [3] ( https://www.exabytes.co.id/blog/command-perintah-linux-yang-berguna/)
-
-Referensi [4] (https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-
-Referensi [5] (https://www.rumahweb.com/journal/perintah-dasar-linux/)
-
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Linux%20Gocab.png" alt="Linux CMD" width="640" height="360">
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -124,7 +117,6 @@ Hackerrank merupakan suatu platform yang dapat digunakan untuk mengasah maupun m
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/HackerRank.png" width="640" height="360">
 
 
-
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -138,9 +130,18 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+Web browser adalah perangkat lunak yang memungkinkan untuk mencari, mengakses, dan menampilkan halaman website di internet. Pada dasarnya, website berisi kode seperti javaScript dan HTML yang tidak dapat langsung dibaca oleh manusia. Web browser akan menerjemahkan kode tersebut ke dalam tulisan, gambar, audio, maupun elemen lainnya.
+
+Seperti yang dijelaskan di atas ,web browser adalah perangkat lunak untuk menampilkan halaman website di internet. Agar dapat melakukan hal tersebut, web browser akan mencari dan mengambil informasi suatu website dari server.
+
+Setiap halaman website memiliki alamat unik yang disebut dengan URL (Uniform Resource Locator). Ketika kita mengetik alamat web tersebut atau mengeklik hyperlink (tautan ke website lain), itu artinya kita meminta web browser untuk membawamu ke halaman tersebut. Kemudian, web browser akan mencari dan mengambil informasi tentang website tersebut dari web server. Lalu, web server akan mentransfer data yang dibutuhkan menggunakan Hypertext Transfer Protocol (HTTP), yaitu seperangkat aturan tentang bagaimana file teks, gambar, dan video ditransmisi di seluruh web.
+
+Data yang ditransfer lalu dituliskan dalam Hypertext Markup Language (HTML). HTML berfungsi untuk memberitahu web browser di mana setiap elemen berada di halaman website. Hal ini akan memastikan kesamaan tampilan halaman website, meskipun diakses dari tiap web browser yang berbeda.
+
+Setelah data diterima, web browser akan mengolahnya menggunakan perangkat lunak yang disebut rendering engine. Hal ini dilakukan untuk menerjemahkan data website menjadi teks dan gambar yang mudah kita pahami. Semua proses kerja ini, biasanya terjadi dalam beberapa detik. 
+
+Untuk mendemostrasikanya cukup gampang dengan membuka browser seperti Chrome, Firefox, Edge.
+
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
