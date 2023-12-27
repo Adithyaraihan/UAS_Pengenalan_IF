@@ -179,6 +179,13 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+JSON adalah turunan JavaScript yang digunakan dalam transfer dan penyimpanan data. Kekinian, bahasa ini sering dimanfaatkan dalam pembuatan aplikasi web.
+
+Dengan JSON developer dapat membuat halaman website di mana informasinya dapat diperbarui tanpa harus memuat ulang halaman tersebut.
+
+Pada kali ini saya akan menggunakan Python untuk membaca dan memproses data yang ada dalam file JSON. Berikut adalah kodenya:
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/jsonSS.png" width="640" height="360">
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
