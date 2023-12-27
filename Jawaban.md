@@ -162,9 +162,10 @@ URL singkatan dari Uniform Resource Locator, URL yaitu cara mengidentifikasi lok
 
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+Untuk melacak alamat informasi server dari alamat domain pada kali ini saya menggunakan Check-Host. Check-Host adalah perangkat pemeriksaan server yang ringan dan modern.
 
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(53).png" width="640" height="360">
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -336,5 +337,10 @@ GitHub juga memberikan layanan cloud untuk menyimpan dan mengelola project/repos
 Profil Github saya bisa dilihat di [Adithya Raihan Pratama]([https://www.linkedin.com/in/adithya-raihan-pratama-778175207/](https://github.com/Adithyaraihan))
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Saya mengikuti mengikuti beberapa event terkait IT yaitu tergabung dalam memeber GDSC UIN Bandung dan mengikuti bootcamp dari dicoding mengenai Machine learning.
+
+<div align="center">
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/sertif.jpg" width="500" height="260">
+</div>
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
