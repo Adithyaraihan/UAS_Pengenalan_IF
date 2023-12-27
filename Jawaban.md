@@ -109,6 +109,9 @@ Bubble Sort adalah metode pengurutan algoritma dengan cara melakukan penukaran d
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Bubblesort.png" alt="Scratch" width="500" height="360">
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+Lingkungan pengembangan terintegrasi (IDE) adalah aplikasi perangkat lunak yang membantu para pemrogram mengembangkan kode perangkat lunak secara efisien. Aplikasi ini meningkatkan produktivitas developer dengan menggabungkan kemampuan seperti pengeditan, pembangunan, pengujian, dan pengemasan perangkat lunak dalam aplikasi yang mudah digunakan. 
+
+Saya memilih Visual Studio Code sebagai IDE saya karena Open source atau dapat diakses tanpa biaya apapun , ekstensi yang dapat memudahkan saya dalam membangun kode, VS Code menyediakan pelengkapan kode otomatis dan saran cerdas saat pengguna mengetik, Penyorotan sintaksis yang baik membuat kode lebih mudah dibaca dan memahami, dan menyediakan integrasi yang baik dengan berbagai debugger.
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
@@ -144,10 +147,22 @@ Untuk mendemostrasikanya cukup gampang dengan membuka browser seperti Chrome, Fi
 
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+URL singkatan dari Uniform Resource Locator, URL yaitu cara mengidentifikasi lokasi file di internet.  URL adalah sebuah cara bagaimana kita menemukan sebuah lokasi file yang berada di internet, Berupa situs, gambar, video, program perangkat lunak, ataupun jenis file lainnya yang di-host di server.
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+<div align="center">
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/URL.jpg" width="440" height="160">
+</div>
+
+- HTTP dan HTTPS adalah protokol komunikasi jaringan antara web server dan web browser. Protokol ini mentransmisikan pesan dan menerima informasi melalui Domain Name System, lalu mengembalikannya ke browser.
+- Subdomain adalah kata atau frasa yang berada di depan titik pertama URL. Subdomain www ini menunjukkan bahwa suatu website bisa diakses lewat internet dan menggunakan HTTP untuk berkomunikasi.
+- Nama domain merupakan alamat yang diketikkan pengguna di browser untuk membuka sebuah website. Nama ini terdiri dari nama website dan ekstensinya, misalnya hostinger.co.id.
+- Ekstensi domain yang juga disebut Top-Level Domain atau TLD adalah bagian setelah titik di akhir nama website. Contoh ekstensi yang paling populer adalah .com.
+- Path to resource merupakan jalur yang ada di sebelah kanan TLD, biasanya setelah simbol garis miring “/“. Path juga sering disebut sebagai struktur folder pada website.
+- Parameter adalah string query atau variabel URL, yang berada setelah tanda tanya.Parameter memuat key dan value yang dipisahkan dengan tanda sama dengan (=). Selain itu, URL bisa memiliki beberapa variabel. Kalau demikian, simbol ampersan (&) akan digunakan sebagai pemisah variabel tersebut. 
+
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
