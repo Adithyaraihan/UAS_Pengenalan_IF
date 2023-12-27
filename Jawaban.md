@@ -304,10 +304,13 @@ Saya tertarik pada profesi Back-End Developer, Back-End Developer adalah seorang
 **Duolingo** merupakan aplikasi belajar bahasa asing gratis dengan metode seperti bermain game untuk anak-anak, diciptakan oleh Luis von Ahn dan Severin Hacker. Aplikasi ini tersedia dalam versi web juga sudah tersedia dalam versi Android, iOS dan Windows Phone. Duolingo bertujuan untuk menciptakan pengalaman belajar yang ringan namun berbobot bagi penggunanya. Kamu dapat menemukan lebih dari 100 total kursus di 41 bahasa yang berbeda, mulai dari bahasa Spanyol, Prancis, Jerman dan Jepang hingga Navajo dan Yiddish dan masih banyak lagi. 
 
 Saya sudah mencoba aplikasi Duolingo dan telah menjalankan beberapa tahapan.
-
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Duolinggo.png" width="640" height="360">
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+HelloTalk adalah  aplikasi belajar bahasa Inggris yang menyediakan fitur chat, sehingga pengguna dapat melakukan percakapan berupa pesan teks bersama pengguna HelloTalk. HelloTalk dapar mengoreksi secara otomatis pengucapan atau penulisan bahasa Inggris pengguna.
+fitur yang ada di HelloTalk yaitu konversi suara ke teks ataupun sebaliknya, dan juga bisa langsung diterjemahkan ke dalam bahasa yang kita inginkan. Hello Talk juga akan merevisi kesalahan gramatikal dalam kalimat yang kita ketikkan. Hal ini tentu memudahkan kita dalam percakapan bahasa apapun yang tidak pernah kita pelajari sebelumnya. Percakapan pun tidak hanya bisa dilakukan secara personal tapi juga bisa dalam sebuah grup.
+
+Berikut Link untuk menuju akun [HelloTalk](https://www.hellotalk.com/u/lol_adithyaraiha) saya
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
