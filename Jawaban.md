@@ -197,11 +197,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-### Text to Image
+### 1. Text to Image
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Ai%20generate%20image.png" width="640" height="360">
 
-### Text to Text
+### 2. Text to Text
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Ai%20text%20to%20text.png" height="360">
 
@@ -231,6 +231,15 @@ Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan da
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- **Jurnal** adalah tulisan yang dibuat oleh orang yang kompeten dalam bidangnya, dan diterbitkan oleh sebuah instansi maupun lembaga. Artikel yang ditulis untuk jurnal biasanya akan direview oleh pakar di bidang studi tertentu sesuai dengan topik yang ditulis dalam artikel.
+
+- **Conference** adalah forum konsultatif yang bertujuan untuk memperoleh pemahaman dan penjelasan atas suatu masalah, berbagi pengetahuan, mendiskusikan ide, dan menjalin jaringan.Conference adalah forum konsultatif yang bertujuan untuk memperoleh pemahaman dan penjelasan atas suatu masalah, berbagi pengetahuan, mendiskusikan ide, dan menjalin jaringan.
+
+- **Artikel** adalah karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan di media daring maupun cetak dan bertujuan menyampaikan gagasan dan fakta yang dapat meyakinkan, mendidik, dan menghibur.
+
+- **Grade Jurnal** merujuk kepada peringkat atau tingkatan sebuah jurnal ilmiah. Ada dua sistem peringkat yang umum digunakan:
+  - Quartile (Q): Sistem ini menunjukkan peringkat sebuah jurnal dengan empat tingkat, yaitu: Q1, Q2, Q3, dan Q4. Tingkat tertinggi adalah Q1 dan terendah adalah Q41.
+   - Sinta (Science and Technology Index): Sistem ini dikelola oleh Kemendikbud Republik Indonesia dan digunakan untuk jurnal nasional yang sudah terakreditasi oleh Arjuna. Ada enam tingkatan dalam sistem Sinta,             yaitu: Sinta 1, Sinta 2, Sinta 3, Sinta 4, Sinta 5, dan Sinta 6. Tingkatan ini berdasarkan nilai akreditasi sebuah jurnal. Tingkatan tertinggi adalah Sinta 1 dan terendah adalah Sinta 62.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
