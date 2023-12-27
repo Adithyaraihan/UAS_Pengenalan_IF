@@ -224,6 +224,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+Data visualization adalah proses menyajikan data dengan cara visual yang menarik dan mudah dipahami.
+
+Disini saya menggunakan Google Data Studio, yaitu aplikasi Data Visualization berbasis web yang merupakan salah satu produk Google. Data Source pada Google Data Studio dapat di integrasi dengan berbagai aplikasi mulai dari MySQL, Google Analytics, Google Ads, Google Sheet dan berbagai aplikasi social media lain.
+
+disini saya mengambil data dari google spreadsheet dan menghubunkanya ke Google Data Studio
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(54).png" width="640" height="360">
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
@@ -337,7 +345,7 @@ Profil linkedin saya bisa dilihat di [Adithya Raihan Pratama](https://www.linked
 GitHub adalah platform pengembangan perangkat lunak yang menggunakan sistem kontrol versi Git. Didirikan pada tahun 2008, GitHub menyediakan layanan berbasis web yang memungkinkan pengembang perangkat lunak untuk bekerja sama dalam proyek-proyek perangkat lunak secara terdistribusi.
 GitHub juga memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat yang berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
 
-Profil Github saya bisa dilihat di [Adithya Raihan Pratama]([https://www.linkedin.com/in/adithya-raihan-pratama-778175207/](https://github.com/Adithyaraihan))
+Profil Github saya bisa dilihat di [Adithya Raihan Pratama](https://www.linkedin.com/in/adithya-raihan-pratama-778175207/)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 Saya mengikuti mengikuti beberapa event terkait IT yaitu tergabung dalam memeber GDSC UIN Bandung dan mengikuti bootcamp dari dicoding mengenai Machine learning.
