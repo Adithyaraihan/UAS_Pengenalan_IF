@@ -242,6 +242,19 @@ Kaggle adalah situs untuk berbagi ide, mendapatkan inspirasi, bersaing dengan da
    - Sinta (Science and Technology Index): Sistem ini dikelola oleh Kemendikbud Republik Indonesia dan digunakan untuk jurnal nasional yang sudah terakreditasi oleh Arjuna. Ada enam tingkatan dalam sistem Sinta,             yaitu: Sinta 1, Sinta 2, Sinta 3, Sinta 4, Sinta 5, dan Sinta 6. Tingkatan ini berdasarkan nilai akreditasi sebuah jurnal. Tingkatan tertinggi adalah Sinta 1 dan terendah adalah Sinta 62.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+Saya telah mengeksplorasi IEEE dan Arxiv
+
+- **IEEE**
+
+IEEE merupakan suatu organisasi yang biasanya mempublikasikan jurnal-jurnal internasional yang memiliki kepanjangan Institute of Electrical and Electronics Engineers (IEEE) dengan bidang mulai dari industri, rekayasa, telekomunikasi, jaringan computer, kelistrikan, antariksa dan elektronika.
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/IEEE.png" width="640" height="360">
+
+- **Arxiv**
+
+arXiv adalah repositori yang berfokus pada bidang fisika, matematika, komputer, dan ilmu komputasi lainnya. Situs ini menyediakan akses gratis ke ribuan makalah preprint yang dikirim oleh peneliti dari seluruh dunia.
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Arxiv.png" width="640" height="360">
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
@@ -272,6 +285,11 @@ Saya tertarik pada profesi Back-End Developer, Back-End Developer adalah seorang
 - Mengidentifikasi dan memperbaiki bug atau masalah lain yang mungkin muncul dalam kode atau konfigurasi aplikasi.
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+**Duolingo** merupakan aplikasi belajar bahasa asing gratis dengan metode seperti bermain game untuk anak-anak, diciptakan oleh Luis von Ahn dan Severin Hacker. Aplikasi ini tersedia dalam versi web juga sudah tersedia dalam versi Android, iOS dan Windows Phone. Duolingo bertujuan untuk menciptakan pengalaman belajar yang ringan namun berbobot bagi penggunanya. Kamu dapat menemukan lebih dari 100 total kursus di 41 bahasa yang berbeda, mulai dari bahasa Spanyol, Prancis, Jerman dan Jepang hingga Navajo dan Yiddish dan masih banyak lagi. 
+
+Saya sudah mencoba aplikasi Duolingo dan telah menjalankan beberapa tahapan.
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Duolinggo.png" width="640" height="360">
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
