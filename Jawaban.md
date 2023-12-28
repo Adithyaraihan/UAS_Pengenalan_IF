@@ -351,8 +351,33 @@ fitur yang ada di HelloTalk yaitu konversi suara ke teks ataupun sebaliknya, dan
 Berikut Link untuk menuju akun [HelloTalk](https://www.hellotalk.com/u/lol_adithyaraiha) saya
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Prospek kerja di bidang Infortmatika pastinya sangat luas dan terus berkembang seiring dengan perkembangan teknologi. Berikut adalah beberapa profesi yang memiliki prospek di bidang IT:
+
+1.	Full Stack Developer: Bertanggung jawab dalam mengembangkan semua pekerjaan termasuk database, server, sistem engineering, maupun bagian dari sisi client.
+2.	Front End Developer dan Back End Developer: Bertugas mengerjakan program yang langsung dilihat oleh pengguna dan infrastruktur seperti server dan database.
+3.	Android Developer dan iOS Developer: Mengembangkan aplikasi untuk platform Android dan iOS.
+4.	Desainer Grafis dan Web Desainer: Menciptakan desain yang menarik untuk media digital.
+5.	Cyber Security Analyst: Melindungi sistem dan data dari ancaman keamanan siber.
+6.	Data Scientist: Mengolah dan menganalisis data besar untuk mendapatkan insight.
+7.	SEO Specialist: Meningkatkan peringkat situs web di mesin pencari.
+8.	Database Administrator: Mengelola dan memelihara database.
+9.	UX Researcher: Melakukan penelitian untuk memahami kebutuhan pengguna.
+10.	Software Engineer: Merancang dan mengembangkan perangkat lunak.
+
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+Setelah saya mengunjungi Freelancer.com ada beberapa lowongan freelance IT yang saya temui di antaranya:
+
+1.	Pengembangan Web: Termasuk front-end, back-end, dan full-stack development.
+2.	Pengembangan Aplikasi Seluler: Mencakup pengembangan aplikasi untuk platform Android dan iOS.
+3.	Desain Grafis: Termasuk desain logo, desain antarmuka pengguna, dan lainnya.
+4.	Pengujian Perangkat Lunak: Melibatkan pengujian fungsi dan kinerja perangkat lunak atau aplikasi.
+5.	Manajemen Proyek IT: Mengelola dan mengkoordinasikan proyek IT.
+6.	Analisis Data: Melibatkan pengolahan dan analisis data untuk mendapatkan wawasan.
+7.	Keamanan Siber: Melindungi sistem dan data dari ancaman keamanan siber.
+8.	Pemeliharaan dan Dukungan Sistem: Menyediakan dukungan teknis dan pemeliharaan sistem IT.
+
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
