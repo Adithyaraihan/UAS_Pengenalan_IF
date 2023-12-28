@@ -262,8 +262,11 @@ disini saya mengambil data dari google spreadsheet dan menghubunkanya ke Google 
 
 <img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(54).png" width="640" height="360">
 
-
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+Saya menggunakan NumPy untuk membuat array yang merepresentasikan data penjualan bulanan. Kemudian, menggunakan Matplotlib untuk membuat grafik garis dengan menampilkan penjualan pada sumbu y dan bulan pada sumbu x. Kode ini juga menambahkan judul, label sumbu, dan grid untuk meningkatkan kejelasan grafik.
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Visualdatakode.png" width="640" height="360">
+
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
