@@ -199,7 +199,7 @@ Developer Tools (DevTools) adalah alat yang disediakan oleh browser untuk memban
 
 Pada kali ini saya mencoba mengubah headingnya, di DevTools juga kita dapat melihat script kode, melihat file web dan lain lain pada web tersebut. saya juga mencoba apakah web tersebut interaktif ketika layar dikecilkan, ternyata web tersebut cukup interaktif.
 
-<img src="" width="640" height="360">
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(56).png" width="640" height="360">
 
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
