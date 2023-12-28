@@ -191,6 +191,7 @@ Referensi:
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/28/cara-menggunakan-hugging-face/
 
 Referensi:
 - https://s.id/ds-braga
