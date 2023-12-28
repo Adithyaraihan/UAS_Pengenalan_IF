@@ -391,6 +391,9 @@ Setelah saya mengunjungi Freelancer.com ada beberapa lowongan freelance IT yang 
 </div>
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+Setelah saya meneksplor top github project saya tertarik kepada Reactive Resume, yaitu pembangun portofolio gratis dan open source yang menyederhanakan proses pembuatan, pembaruan, dan berbagi portoolio Anda. Tanpa pelacakan pengguna atau iklan, privasi Anda adalah prioritas utama. Platform ini sangat ramah pengguna dan bisa dihosting sendiri dalam waktu kurang dari 30 detik jika Anda ingin memiliki data Anda sepenuhnya. Platform ini dibuat oleh Amruth pillai yang berasal dari india.
+
+<img src="https://github.com/Adithyaraihan/UAS_Pengenalan_IF/blob/main/picture/Screenshot%20(59).png" width="640" height="360">
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 LinkedIn adalah platform media sosial profesional yang dirancang untuk membantu orang-orang dalam membangun dan menjalin hubungan bisnis.  
