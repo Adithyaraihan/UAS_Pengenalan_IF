@@ -117,15 +117,7 @@ Referensi tutorial
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Teknik:
-- On page - yang bisa kita lakukan di halaman HTML kita sendiri
-- Off page - yang bisa kita harapkan dilakukan pihak lain terhadap kita
-
-Studi kasus:
-- Wordpress SEO
-
-Referensi:
-- [On page SEO](https://backlinko.com/on-page-seo)
+https://adithyarhn.wordpress.com/2023/12/28/search-engine-optimization/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 - Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
