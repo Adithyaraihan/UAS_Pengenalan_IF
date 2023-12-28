@@ -195,13 +195,36 @@ Pada kali ini saya akan menggunakan Python untuk membaca dan memproses data yang
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+Developer Tools (DevTools) adalah alat yang disediakan oleh browser untuk membantu pengembang web dalam menginspeksi, menganalisis, dan memdebug aplikasi web. DevTools memungkinkan pengembang untuk melihat dan memanipulasi struktur HTML, CSS, dan JavaScript dari suatu halaman web.
+
+Pada kali ini saya mencoba mengubah headingnya, di DevTools juga kita dapat melihat script kode, melihat file web dan lain lain pada web tersebut. saya juga mencoba apakah web tersebut interaktif ketika layar dikecilkan, ternyata web tersebut cukup interaktif.
+
+<img src="" width="640" height="360">
+
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+Saya tertarik padaMicrosoft Azure, yaitu sebuah platform cloud yang terdiri dari berbagai layanan computing, analytic, storage, hingga network. Layanan ini diperuntukan untuk membuat dan mengembangkan aplikasi baru, maupun menjalankan aplikasi yang sudah ada pada cloud.
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+Microsoft Azure menawarkan empat jenis komputasi yang berbeda-beda, mulai dari IaaS (infrastructure as a service), PaaS (Platform as a service), SaaS (software as a service), sampai layanan tanpa server.
+
+Microsoft Azure mengenakan biaya untuk para pengguna Azure dengan dasar pay-as-you-go. Artinya, pelanggan hanya akan menerima tagihan untuk sumber daya yang memang sudah mereka gunakan saja.
+
+Keunggulan Microsoft Azure:
+  1.	Skalabilitas yang dapat disesuaikan
+  2.	Biaya yang lebih efisien
+  3.	Manajemen akses dan identitas yang aman (IAM)
+  4.	Dukungan backup dan recovery
+  5.	Terintegrasi dengan aplikasi lainnya
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+WordPress adalah open-source Content Management System (CMS) yang merupakan tools populer untuk seseorang yang ingin membangun website dan blog, bahkan tanpa perlu memiliki basic programming. Platform CMS ini tidak memerlukan biaya apa pun sehingga kamu dapat menginstal, menggunakan, dan memodifikasinya secara gratis.
+
+Content Management System (CMS) yang dibagun WordPress menggunakan bahasa pemrogramam PHP dan database MySQL. Dengan WordPress, pengguna baru dapat mengelola website tanpa perlu memahami teknis bahasa pemrograman, hal itu pun yang membuat para pemula dapat dengan mudah membuat website, bahkan dalam hitungan menit.
+
+WordPress yang saya buat berjudul [Pulau Labengki: Surga Tersembunyi di Tengah Laut Sulawesi](https://adithyarhn.wordpress.com/)
+
+
+
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
