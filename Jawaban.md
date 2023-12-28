@@ -175,8 +175,77 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+```html
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Web | Portofolio</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <nav>
+          <ul>
+            <li><a href="">About</a></li>
+            <li><a href="">Portofolio</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <main class="content">
+        <section class="hero">
+          <img src="online.png" alt="" />
+          <div class="hero-content">
+            <h1>Adithya RaihanP</h1>
+            <br />
+            <h2>3 januari 2005</h2>
+            <br /><br />
+            <p>
+             saya adalah mahasiswa UIN Sunan Gunung Djati Bandung Semester satu, prodi Tekhnik Informatika 
+            </p>
+            <a href="" class="action-btn">Profile Saya</a>
+          </div>
+        </section>
+      </main>
+      <div class="footer">
+        <footer>
+          <ul>
+            <li>
+              <img src="instagram.png" alt="" /><a><p>Instagram</p></a>
+            </li>
+            <li>
+              <img src="facebook.png" alt="" /><a><p>Facebook</p></a>
+            </li>
+            <li>
+              <img src="twitter.png" alt="" /><a><p>Twitter</p></a>
+            </li>
+            <li>
+              <img src="telegram.png" alt="" /><a><p>Telegram</p></a>
+            </li>
+          </ul>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
+```
+Untuk meningkatkan SEO pada halaman HTML di atas, saya melakukan beberapa perubahan diantaranya adalah:
+1.	Menambahkan Meta Tags untuk SEO:
+    - Tambahkan meta tag description di dalam elemen <head> untuk memberikan deskripsi singkat tentang halaman web Anda.
+    - Gunakan meta tag keywords (meskipun tidak begitu berpengaruh pada mesin pencari modern, tetapi beberapa mesin pencari masih memperhitungkannya).
+    - Berikan meta tag author untuk menunjukkan siapa penulis atau pemilik situs.
+2.	Menambahkan Alt Text untuk Gambar:
+    - Tambahkan atribut alt pada tag <img> untuk memberikan teks alternatif untuk gambar. Ini membantu mesin pencari memahami konten gambar.
+3.	Menambahkan Atribut rel pada Tautan Sosial:
+    - Tambahkan atribut rel="nofollow" pada tautan media sosial untuk menghindari aliran otoritas halaman ke tautan eksternal.
+4.	Menyusun Heading Secara Hierarkis:
+    - Pastikan penggunaan tag heading (<h1>, <h2>, dst.) secara hierarkis dan sesuai dengan struktur kontennya.
+5.	Menambahkan Tautan yang Relevan dan Bernilai:
+    - Isi atribut href pada tautan <a> dengan URL yang relevan dan bernilai.
 
-Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 JSON adalah turunan JavaScript yang digunakan dalam transfer dan penyimpanan data. Kekinian, bahasa ini sering dimanfaatkan dalam pembuatan aplikasi web.
