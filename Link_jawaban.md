@@ -237,24 +237,26 @@ https://adithyarhn.wordpress.com/2023/12/28/apa-itu-jurnal-conference-artikel-gr
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/28/profesi-terkait-informatika-back-end/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/28/10-pekerjaan-di-bidang-it/
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Referensi:
-- https://roadmap.sh/
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 Referensi:
 - https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/28/peluang-freelance-di-dunia-it-lowongan-menarik-di-freelancer-com/
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
