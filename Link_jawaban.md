@@ -9,7 +9,7 @@ https://adithyarhn.wordpress.com/2023/12/28/computational-thinking/
 https://adithyarhn.wordpress.com/2023/12/28/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
+https://adithyarhn.wordpress.com/2023/12/29/mencoba-google-colab/
 
 ## Mencoba Console Sistem Operasi
 - Karena console
@@ -23,39 +23,15 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-Contoh di Google Colab:
-
-List di direktori ini ada file dan folder apa aja:
-```py
-!ls
-```
-
-Print saya sekarang ada di posisi mana
-```py
-!pwd
-```
-
-- [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
-
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+https://adithyarhn.wordpress.com/2023/12/29/membuat-algoritma-dalam-bentuk-flow-chart/
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-- Beri penjelasan
-- Beri komentar, bahasa indonesia
-- Lebih bagus buat juga flowchart nya
+https://adithyarhn.wordpress.com/2023/12/29/mencoba-algoritma-bubble-sort-menggunakan-java/
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
@@ -161,11 +137,14 @@ Contoh:
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cloud-service-microsoft-azure/
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/29/canva-edit-konten-multimedia-dengan-mudah/
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+https://adithyarhn.wordpress.com/2023/12/29/canva-edit-konten-multimedia-dengan-mudah/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 ![Alt text](https://cdn.serc.carleton.edu/images/NAGTWorkshops/complexsystems/netlogo_aquarium_macro-level_m.webp)
@@ -173,10 +152,7 @@ https://adithyarhn.wordpress.com/2023/12/28/cloud-service-microsoft-azure/
 - [Netlogo](https://ccl.northwestern.edu/netlogo/)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
-Referensi:
-- https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
-- [Gambar](https://gitlab.com/marchgis/march-ed/2023/courses/if216006-praktikum-sistem-multimedia/-/tree/main/modul-2)
+https://adithyarhn.wordpress.com/2023/12/29/pemrosesan-konten-multimedia-menggunakan-google-colab/
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
@@ -184,26 +160,17 @@ Referensi:
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cara-menggunakan-hugging-face/
-
-Referensi:
-- https://s.id/ds-braga
-
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
-Referensi:
-- [Looker Studio](https://lookerstudio.google.com/)
+https://adithyarhn.wordpress.com/2023/12/29/mencoba-data-visualization-dengan-google-data-studio/
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-Referensi:
-- [ChartJS](https://www.chartjs.org/docs/latest/getting-started/)
+https://adithyarhn.wordpress.com/2023/12/29/data-visualization-dengan-code-pada-google-colab/
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-Referensi:
-- [Huggingface](https://huggingface.co/)
-- [Contoh penggunaan di Google Colab](https://colab.research.google.com/drive/1mcMiav2NBk4UcnttAuB4reSCeWuywjmj?usp=sharing)
+https://adithyarhn.wordpress.com/2023/12/29/eksplorasi-huggingface/
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-- https://www.kaggle.com
+udah ada
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -233,26 +200,30 @@ https://adithyarhn.wordpress.com/2023/12/28/apa-itu-jurnal-conference-artikel-gr
 https://adithyarhn.wordpress.com/2023/12/28/profesi-terkait-informatika-back-end/
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/29/eksplorasi-duolingo-dan-hellotalk-untuk-belajar-bahasa-inggris/
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://adithyarhn.wordpress.com/2023/12/29/eksplorasi-duolingo-dan-hellotalk-untuk-belajar-bahasa-inggris/
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/10-pekerjaan-di-bidang-it/
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Referensi:
-
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-Referensi:
-- https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
-
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/peluang-freelance-di-dunia-it-lowongan-menarik-di-freelancer-com/
 
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://adithyarhn.wordpress.com/2023/12/29/backend-developer-dengan-roadmap-sh/
+
+## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+https://adithyarhn.wordpress.com/2023/12/29/reactive-resume-proyek-top-pada-github-copilot/
+
+## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://www.linkedin.com/in/adithya-raihan-pratama-778175207/
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Adithyaraihan
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+https://drive.google.com/drive/folders/1IHdQv9sbjAeNwo_IUMTeapEKJH6_LeQz?usp=sharing
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
