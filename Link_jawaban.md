@@ -11,10 +11,10 @@ https://adithyarhn.wordpress.com/2023/12/29/mencoba-google-colab/
 
 ## Mencoba Console Sistem Operasi
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
-
+https://youtu.be/gBIBlzaF-Yk
 
 ### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
+https://youtu.be/gBIBlzaF-Yk
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/29/membuat-algoritma-dalam-bentuk-flow-chart/
@@ -26,18 +26,20 @@ https://adithyarhn.wordpress.com/2024/01/01/membuat-game-mirip-google-dino-run-m
 https://adithyarhn.wordpress.com/2023/12/29/mencoba-algoritma-bubble-sort-menggunakan-java/
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-
+https://adithyarhn.wordpress.com/2024/01/02/integrated-development-environment-ide/
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/tkqJh35rjcU
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+https://youtu.be/NzytF4-2IWI
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
+iniaga
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+ini aga
+
 - Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
 - Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
 - Task
@@ -60,13 +62,12 @@ https://adithyarhn.wordpress.com/2023/12/28/penggunaan-web-browser-untuk-mengaks
 https://adithyarhn.wordpress.com/2023/12/28/komponen-uniform-resource-locator-url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
+ini
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
+ini
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
 https://adithyarhn.wordpress.com/2023/12/28/search-engine-optimization/
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -93,24 +94,24 @@ https://adithyarhn.wordpress.com/2023/12/28/search-engine-optimization/
 ```
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+ini aga
 
 Tips:
 - Cari di Google: web hosting murah bulanan indonesia
 - Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+iniaga
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
-
+ini aga
 
 Contoh:
 - [Kumpulan public API untuk dicoba2](https://github.com/public-apis/public-apis)
 - [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
+ini
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cloud-service-microsoft-azure/
@@ -125,16 +126,16 @@ https://adithyarhn.wordpress.com/2023/12/29/canva-edit-konten-multimedia-dengan-
 https://adithyarhn.wordpress.com/2023/12/29/canva-edit-konten-multimedia-dengan-mudah/
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+https://adithyarhn.wordpress.com/2024/01/02/netlogo/
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/29/pemrosesan-konten-multimedia-menggunakan-google-colab/
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+ini
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
+ini
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cara-menggunakan-hugging-face/
@@ -152,15 +153,14 @@ https://adithyarhn.wordpress.com/2023/12/29/eksplorasi-huggingface/
 https://adithyarhn.wordpress.com/2023/12/29/eksplorasi-kaggle/
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
+https://adithyarhn.wordpress.com/2024/01/02/mencoba-protokol-komunikasi-iot-mqtt/
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Referensi:
 - https://colab.research.google.com/drive/1AMLJIYM4r-uirkf1mKrkmqHAAgXTTwww?usp=sharing
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
-
+https://adithyarhn.wordpress.com/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 
 Referensi:
 - https://colab.research.google.com/drive/1pA5MgfR5JaBdVfbKSq5G05pZD60EuK6J?usp=sharing
@@ -169,7 +169,7 @@ Referensi:
 https://adithyarhn.wordpress.com/2023/12/28/apa-itu-jurnal-conference-artikel-grade-jurnal/
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://adithyarhn.wordpress.com/2024/01/02/eksplorasi-artikel-jurnal-di-ieee-dan-arxiv/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 https://adithyarhn.wordpress.com/2024/01/01/review-presentasi-tugas-akhir-jurusan-informatika/
