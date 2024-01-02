@@ -111,7 +111,7 @@ Contoh:
 - [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-ini
+https://youtu.be/iHjjtctt0ZM
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cloud-service-microsoft-azure/
