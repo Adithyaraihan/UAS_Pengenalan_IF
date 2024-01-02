@@ -38,22 +38,7 @@ https://youtu.be/NzytF4-2IWI
 https://youtu.be/PGRHgBvZQPo?si=1uRhf5MvbavfCVmt
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-ini aga
-
-- Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
-- Database explorer, seperti Navicat (berbayar) dan Dbeaver, adalah aplikasi eksplorasi dan pengelolaan database berbasis GUI, yang bisa terhubung ke berbagai jenis database
-- Task
-    1. Berhasil koneksi ke database yang sudah diinstall (PostgreSQL / MySQL)
-    2. Mencoba membuat table baru
-    3. Mencoba bahasa SQL untuk query data
-       
-
-
-Referensi tutorial [PostgreSQL](https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D)
-Referensi tutorial [MySQL](https://www.youtube.com/watch?v=3kq_xQAvJCs)
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+https://adithyarhn.wordpress.com/2024/01/02/eksplorasi-dan-query-database-menggunakan-dbeaver/
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/penggunaan-web-browser-untuk-mengakses-html/
@@ -105,10 +90,6 @@ https://youtu.be/kxdi89qx4rw?si=aqw4d4twUdXZc-CU
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
 https://adithyarhn.wordpress.com/2024/01/02/mencoba-http-request-dan-web-api-dengan-hoppscotch-dan-postman/
-
-Contoh:
-- [Kumpulan public API untuk dicoba2](https://github.com/public-apis/public-apis)
-- [CatFact](https://catfact.ninja/fact)
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 https://youtu.be/iHjjtctt0ZM
