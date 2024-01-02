@@ -35,7 +35,7 @@ https://youtu.be/tkqJh35rjcU
 https://youtu.be/NzytF4-2IWI
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-iniaga
+https://youtu.be/PGRHgBvZQPo?si=1uRhf5MvbavfCVmt
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 ini aga
@@ -62,10 +62,10 @@ https://adithyarhn.wordpress.com/2023/12/28/penggunaan-web-browser-untuk-mengaks
 https://adithyarhn.wordpress.com/2023/12/28/komponen-uniform-resource-locator-url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-ini
+https://youtu.be/kxdi89qx4rw?si=aqw4d4twUdXZc-CU
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-ini
+https://youtu.be/kxdi89qx4rw?si=aqw4d4twUdXZc-CU
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/search-engine-optimization/
@@ -94,17 +94,17 @@ https://adithyarhn.wordpress.com/2023/12/28/search-engine-optimization/
 ```
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-ini aga
+https://youtu.be/kxdi89qx4rw?si=aqw4d4twUdXZc-CU
 
 Tips:
 - Cari di Google: web hosting murah bulanan indonesia
 - Gratis ? malah dikasih credit: Google Cloud Platform / Amazon Web Service
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-iniaga
+https://youtu.be/kxdi89qx4rw?si=aqw4d4twUdXZc-CU
 
 ## Mencoba HTTP Request dan Web API dengan HTTP Client Hoppscotch / Postman [v] ⭐⭐
-ini aga
+https://adithyarhn.wordpress.com/2024/01/02/mencoba-http-request-dan-web-api-dengan-hoppscotch-dan-postman/
 
 Contoh:
 - [Kumpulan public API untuk dicoba2](https://github.com/public-apis/public-apis)
