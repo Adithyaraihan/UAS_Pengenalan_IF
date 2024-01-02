@@ -132,10 +132,10 @@ https://adithyarhn.wordpress.com/2024/01/02/netlogo/
 https://adithyarhn.wordpress.com/2023/12/29/pemrosesan-konten-multimedia-menggunakan-google-colab/
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-ini
+https://youtu.be/0nYYweeH4xw?si=O8aib7zOQbYwLkps
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-ini
+https://youtu.be/0nYYweeH4xw?si=O8aib7zOQbYwLkps
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://adithyarhn.wordpress.com/2023/12/28/cara-menggunakan-hugging-face/
